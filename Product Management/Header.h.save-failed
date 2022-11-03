@@ -1,0 +1,95 @@
+#include<iostream>
+#include"DataStructure.h"
+using namespace std;
+bool isValid(date Date){
+    if(Date.year>0){
+        if(Date.month>0 && Date.month <=12){
+            if((Date.month==1 || Date.month==3 ||Date.month==5||
+                Date.month==7 ||Date.month==8||Date.month==10||Date.month==12) && (Date.day>0 && Date.day<=31)){
+                return true;
+            }
+            else if((Date.month==4|| Date.month==6||Date.month==9 ||Date.month==11)&& (Date.day>0 && Date.day<=30)){
+                return true;
+            }else if(Date.month==2 &&(Date.day>0&& Date.day<=28)){
+                return true;
+            }else {
+                return false;
+            }
+        }else {
+            return false;
+        };
+    }else {
+        return false;
+    };
+
+}
+void SubHeader(string Text,int tap=0,int width=0,int textTap=0,char ch='='){
+    cout<<"\n";
+    for(int i=0;i<tap;i++){
+        cout<<"\t";
+    }
+    for(int i=0;i<width;i++){
+        cout<<ch;
+    }
+    cout<<"\n";
+    for(int i=0;i<textTap;i++){
+        cout<<"\t";
+    }
+    cout<<(Text);
+
+
+    cout<<"\n";
+    for(int i=0;i<tap;i++){
+        cout<<"\t";
+    }
+    for(int i=0;i<width;i++){
+        cout<<ch;
+    }
+    cout<<"\n";
+
+}
+date stringToDate(string text){
+    string t="";
+    int k=0;
+    date Date;
+    string arr[3];
+    for(int i=0;i<text.size();i++){
+        if(text[i]=='\\'){
+            arr[k]=t;
+            k++;
+            t="";
+            continue;
+        }
+        if(i==(text.size()-1)){
+            t+=text[i];
+            arr[k]=t;
+            k++;
+            t="";
+            continue;
+        }
+        t+=text[i];
+    }
+    Date.day=stoi(arr[0]);
+    Date.month=stoi(arr[1]);
+    Date.year=stoi(arr[2]);
+
+    return Date;
+}
+
+string ToupperCase(string text){
+    int i=0;
+    while(text[i]!='\0'){
+        if(text[i]>=97 && text[i]<=122){
+            text[i]=text[i]-32;
+        }
+        i++;
+    }
+    return text;
+}
+string DateToString(date Date){
+    string text;
+    text+=to_string(Date.day)+"\\"
+        +to_string(Date.month)+"\\"
+        +to_string(Date.year);
+    return text;
+}

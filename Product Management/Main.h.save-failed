@@ -1,0 +1,61 @@
+#include <iostream>
+#include "DataStructure.h"
+using namespace std;
+
+
+
+void ProductMenu(){
+    string id;
+        printf("\t\t");
+    for(int i=0;i<70;i++){
+        printf("=");
+    }
+    printf("\n");
+    printf("\t\t||\t%-60s||\n"
+           "\t\t||\t%-60s||\n"
+           "\t\t||\t%-60s||\n"
+           "\t\t||\t%-60s||\n"
+           "\t\t||\t%-60s||\n"
+           "\t\t||\t%-60s||\n"
+           "\t\t||\t%-60s||\n",
+           "1.Input Product",
+           "2.Display All Product",
+           "3.Display Product By ID",
+           "4.Update Product",
+           "5.Delete Product",
+           "6.Search Product",
+           "7.BACK TO MAIN MENU");
+    printf("\t\t");
+    for(int i=0;i<70;i++){
+        printf("=");
+    }
+    int choice;
+    cout<<"\n\t\tInput Option: ";
+    cin>>choice;
+    if(choice==1){
+
+        system("pause");
+        system("cls");
+        ProductMenu();
+    }else if(choice==2){
+        system("pause");
+        system("cls");
+        ProductMenu();
+    }else if(choice==3){
+
+        system("pause");
+        system("cls");
+        ProductMenu();
+
+    }else if(choice==4){
+
+        system("pause");
+        system("cls");
+        ProductMenu();
+    }else if(choice==5){
+
+        system("pause");
+        system("cls");
+        ProductMenu();
+    }
+}

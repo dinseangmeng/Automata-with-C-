@@ -1,0 +1,687 @@
+# depslib dependency file v1.0
+1657284275 source:d:\c++ project\new folder\project algorithm final for backup\main.cpp
+	<iostream>
+	<ctime>
+	"History/Main.h"
+	"Product Management/Main.h"
+	"Book Management/Main.h"
+	"Number Testing/Main.h"
+	"Math suit/Main.h"
+	"Number Coverter/Main.h"
+	"Basic Math/Main.h"
+
+1657285827 d:\c++ project\new folder\project algorithm final for backup\product management\main.h
+	<iostream>
+	<conio.h>
+	"DataStructure.h"
+
+1657250521 source:d:\c++ project\new folder\project algorithm final for backup\product management\datastructure.cpp
+	<iostream>
+	<fstream>
+	<color.hpp>
+	<tabulate/table.hpp>
+	"DataStructure.h"
+
+1655303860 d:\c++ project\new folder\project algorithm final for backup\include\color.hpp
+	<algorithm>
+	<iostream>
+	<list>
+	<map>
+	<string>
+	<type_traits>
+	<utility>
+	<windows.h>
+
+1655201187 d:\c++ project\new folder\project algorithm final for backup\include\tabulate\table.hpp
+	<tabulate/table_internal.hpp>
+	<string_view>
+	<variant>
+	<tabulate/string_view_lite.hpp>
+	<tabulate/variant_lite.hpp>
+	<utility>
+
+1655201187 d:\c++ project\new folder\project algorithm final for backup\include\tabulate\table_internal.hpp
+	<algorithm>
+	<iostream>
+	<string>
+	<tabulate/column.hpp>
+	<tabulate/font_style.hpp>
+	<tabulate/printer.hpp>
+	<tabulate/row.hpp>
+	<tabulate/termcolor.hpp>
+	<vector>
+
+1655201187 d:\c++ project\new folder\project algorithm final for backup\include\tabulate\column.hpp
+	<algorithm>
+	<functional>
+	<iostream>
+	<memory>
+	<optional>
+	<string>
+	<tabulate/cell.hpp>
+	<tabulate/column_format.hpp>
+	<vector>
+
+1655201187 d:\c++ project\new folder\project algorithm final for backup\include\tabulate\cell.hpp
+	<iostream>
+	<memory>
+	<string>
+	<tabulate/format.hpp>
+	<tabulate/utf8.hpp>
+	<optional>
+	<tabulate/optional_lite.hpp>
+	<vector>
+
+1655201187 d:\c++ project\new folder\project algorithm final for backup\include\tabulate\format.hpp
+	<algorithm>
+	<cctype>
+	<cstddef>
+	<sstream>
+	<string>
+	<tabulate/color.hpp>
+	<tabulate/font_align.hpp>
+	<tabulate/font_style.hpp>
+	<tabulate/utf8.hpp>
+	<optional>
+	<tabulate/optional_lite.hpp>
+	<vector>
+
+1655201187 d:\c++ project\new folder\project algorithm final for backup\include\tabulate\color.hpp
+	<tabulate/termcolor.hpp>
+
+1655201187 d:\c++ project\new folder\project algorithm final for backup\include\tabulate\termcolor.hpp
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<cstdio>
+	<iostream>
+
+1655201187 d:\c++ project\new folder\project algorithm final for backup\include\tabulate\font_align.hpp
+
+1655201187 d:\c++ project\new folder\project algorithm final for backup\include\tabulate\font_style.hpp
+
+1655201187 d:\c++ project\new folder\project algorithm final for backup\include\tabulate\utf8.hpp
+	<algorithm>
+	<cstdint>
+	<string>
+	<clocale>
+	<locale>
+	<cstdlib>
+	<tabulate/termcolor.hpp>
+	<wchar.h>
+
+1655201187 d:\c++ project\new folder\project algorithm final for backup\include\tabulate\optional_lite.hpp
+	<utility>
+	<cstddef>
+	<optional>
+	<cassert>
+	<utility>
+	<stdexcept>
+	<functional>
+	<initializer_list>
+	<type_traits>
+	<tr1/type_traits>
+
+1655201187 d:\c++ project\new folder\project algorithm final for backup\include\tabulate\column_format.hpp
+
+1655201187 d:\c++ project\new folder\project algorithm final for backup\include\tabulate\printer.hpp
+	<tabulate/color.hpp>
+	<tabulate/font_style.hpp>
+	<utility>
+	<vector>
+
+1655201187 d:\c++ project\new folder\project algorithm final for backup\include\tabulate\row.hpp
+	<iostream>
+	<memory>
+	<string>
+	<tabulate/cell.hpp>
+	<optional>
+	<tabulate/optional_lite.hpp>
+	<vector>
+
+1655201187 d:\c++ project\new folder\project algorithm final for backup\include\tabulate\string_view_lite.hpp
+	<nonstd/string_view.tweak.hpp>
+	<cstddef>
+	<string_view>
+	<algorithm>
+	<cassert>
+	<iterator>
+	<limits>
+	<string>
+	<ostream>
+	<stdexcept>
+	<type_traits>
+	<functional>
+
+1655201187 d:\c++ project\new folder\project algorithm final for backup\include\tabulate\variant_lite.hpp
+	<utility>
+	<cstddef>
+	<functional>
+	<variant>
+	<cstddef>
+	<limits>
+	<new>
+	<utility>
+	<cassert>
+	<stdexcept>
+	<functional>
+	<initializer_list>
+	<type_traits>
+	<tr1/type_traits>
+
+1657088383 d:\c++ project\new folder\project algorithm final for backup\product management\datastructure.h
+	<iostream>
+
+1657077935 d:\c++ project\new folder\project algorithm final for backup\product management\header.h
+	<iostream>
+
+1657285564 d:\c++ project\new folder\project algorithm final for backup\book management\main.h
+	<iostream>
+	"DataStructure.h"
+
+1657125599 d:\c++ project\new folder\project algorithm final for backup\book management\datastructure.h
+	<iostream>
+
+1657249883 source:d:\c++ project\new folder\project algorithm final for backup\book management\datastructure.cpp
+	<iostream>
+	"DataStructure.h"
+	<tabulate/table.hpp>
+	<string>
+	<fstream>
+
+1657088389 d:\c++ project\new folder\project algorithm final for backup\include\header.h
+
+1657286402 d:\c++ project\new folder\project algorithm final for backup\number testing\main.h
+	<iostream>
+	"DataStructure.h"
+
+1657186137 d:\c++ project\new folder\project algorithm final for backup\number testing\datastructure.h
+	<iostream>
+
+1657286598 d:\c++ project\new folder\project algorithm final for backup\math suit\main.h
+	<iostream>
+	"DataStructure.h"
+
+1657187970 d:\c++ project\new folder\project algorithm final for backup\math suit\datastructure.h
+	<iostream>
+	<string>
+
+1657286866 d:\c++ project\new folder\project algorithm final for backup\number coverter\main.h
+	<algorithm>
+	<iostream>
+	<string>
+	<cmath>
+	<bits/stdc++.h>
+
+1657286496 d:\c++ project\new folder\project algorithm final for backup\basic math\main.h
+	<iostream>
+	<tabulate/table.hpp>
+
+1657279226 source:d:\c++ project\new folder\project algorithm final for backup\history\datastructure.cpp
+	<iostream>
+	"DataStructure.h"
+	<tabulate/table.hpp>
+	<fstream>
+
+1657254242 d:\c++ project\new folder\project algorithm final for backup\history\datastructure.h
+	<iostream>
+
+1657287349 d:\c++ project\new folder\project algorithm final for backup\history\main.h
+	<iostream>
+	<conio.h>
+	"DataStructure.h"
+
+1657249883 source:d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\book management\datastructure.cpp
+	<iostream>
+	"DataStructure.h"
+	<tabulate/table.hpp>
+	<string>
+	<fstream>
+
+1657125599 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\book management\datastructure.h
+	<iostream>
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\include\tabulate\table.hpp
+	<tabulate/table_internal.hpp>
+	<string_view>
+	<variant>
+	<tabulate/string_view_lite.hpp>
+	<tabulate/variant_lite.hpp>
+	<utility>
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\include\tabulate\table_internal.hpp
+	<algorithm>
+	<iostream>
+	<string>
+	<tabulate/column.hpp>
+	<tabulate/font_style.hpp>
+	<tabulate/printer.hpp>
+	<tabulate/row.hpp>
+	<tabulate/termcolor.hpp>
+	<vector>
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\include\tabulate\column.hpp
+	<algorithm>
+	<functional>
+	<iostream>
+	<memory>
+	<optional>
+	<string>
+	<tabulate/cell.hpp>
+	<tabulate/column_format.hpp>
+	<vector>
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\include\tabulate\cell.hpp
+	<iostream>
+	<memory>
+	<string>
+	<tabulate/format.hpp>
+	<tabulate/utf8.hpp>
+	<optional>
+	<tabulate/optional_lite.hpp>
+	<vector>
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\include\tabulate\format.hpp
+	<algorithm>
+	<cctype>
+	<cstddef>
+	<sstream>
+	<string>
+	<tabulate/color.hpp>
+	<tabulate/font_align.hpp>
+	<tabulate/font_style.hpp>
+	<tabulate/utf8.hpp>
+	<optional>
+	<tabulate/optional_lite.hpp>
+	<vector>
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\include\tabulate\color.hpp
+	<tabulate/termcolor.hpp>
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\include\tabulate\termcolor.hpp
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<cstdio>
+	<iostream>
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\include\tabulate\font_align.hpp
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\include\tabulate\font_style.hpp
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\include\tabulate\utf8.hpp
+	<algorithm>
+	<cstdint>
+	<string>
+	<clocale>
+	<locale>
+	<cstdlib>
+	<tabulate/termcolor.hpp>
+	<wchar.h>
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\include\tabulate\optional_lite.hpp
+	<utility>
+	<cstddef>
+	<optional>
+	<cassert>
+	<utility>
+	<stdexcept>
+	<functional>
+	<initializer_list>
+	<type_traits>
+	<tr1/type_traits>
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\include\tabulate\column_format.hpp
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\include\tabulate\printer.hpp
+	<tabulate/color.hpp>
+	<tabulate/font_style.hpp>
+	<utility>
+	<vector>
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\include\tabulate\row.hpp
+	<iostream>
+	<memory>
+	<string>
+	<tabulate/cell.hpp>
+	<optional>
+	<tabulate/optional_lite.hpp>
+	<vector>
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\include\tabulate\string_view_lite.hpp
+	<nonstd/string_view.tweak.hpp>
+	<cstddef>
+	<string_view>
+	<algorithm>
+	<cassert>
+	<iterator>
+	<limits>
+	<string>
+	<ostream>
+	<stdexcept>
+	<type_traits>
+	<functional>
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\include\tabulate\variant_lite.hpp
+	<utility>
+	<cstddef>
+	<functional>
+	<variant>
+	<cstddef>
+	<limits>
+	<new>
+	<utility>
+	<cassert>
+	<stdexcept>
+	<functional>
+	<initializer_list>
+	<type_traits>
+	<tr1/type_traits>
+
+1657279226 source:d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\history\datastructure.cpp
+	<iostream>
+	"DataStructure.h"
+	<tabulate/table.hpp>
+	<fstream>
+
+1657254242 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\history\datastructure.h
+	<iostream>
+
+1657284275 source:d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\main.cpp
+	<iostream>
+	<ctime>
+	"History/Main.h"
+	"Product Management/Main.h"
+	"Book Management/Main.h"
+	"Number Testing/Main.h"
+	"Math suit/Main.h"
+	"Number Coverter/Main.h"
+	"Basic Math/Main.h"
+
+1657287349 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\history\main.h
+	<iostream>
+	<conio.h>
+	"DataStructure.h"
+
+1657285827 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\product management\main.h
+	<iostream>
+	<conio.h>
+	"DataStructure.h"
+
+1657088383 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\product management\datastructure.h
+	<iostream>
+
+1657285564 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\book management\main.h
+	<iostream>
+	"DataStructure.h"
+
+1657286402 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\number testing\main.h
+	<iostream>
+	"DataStructure.h"
+
+1657186137 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\number testing\datastructure.h
+	<iostream>
+
+1657286598 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\math suit\main.h
+	<iostream>
+	"DataStructure.h"
+
+1657187970 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\math suit\datastructure.h
+	<iostream>
+	<string>
+
+1657286866 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\number coverter\main.h
+	<algorithm>
+	<iostream>
+	<string>
+	<cmath>
+	<bits/stdc++.h>
+
+1657286496 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\basic math\main.h
+	<iostream>
+	<tabulate/table.hpp>
+
+1657250521 source:d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\product management\datastructure.cpp
+	<iostream>
+	<fstream>
+	<color.hpp>
+	<tabulate/table.hpp>
+	"DataStructure.h"
+
+1655303860 d:\gic i3\sii\algorithm and programing ii\algorithm final project\project algorithm final for backup\include\color.hpp
+	<algorithm>
+	<iostream>
+	<list>
+	<map>
+	<string>
+	<type_traits>
+	<utility>
+	<windows.h>
+
+1657455749 source:d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\book management\datastructure.cpp
+	<iostream>
+	"DataStructure.h"
+	<tabulate/table.hpp>
+	<string>
+	<fstream>
+
+1657455135 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\book management\datastructure.h
+	<iostream>
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\include\tabulate\table.hpp
+	<tabulate/table_internal.hpp>
+	<string_view>
+	<variant>
+	<tabulate/string_view_lite.hpp>
+	<tabulate/variant_lite.hpp>
+	<utility>
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\include\tabulate\table_internal.hpp
+	<algorithm>
+	<iostream>
+	<string>
+	<tabulate/column.hpp>
+	<tabulate/font_style.hpp>
+	<tabulate/printer.hpp>
+	<tabulate/row.hpp>
+	<tabulate/termcolor.hpp>
+	<vector>
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\include\tabulate\column.hpp
+	<algorithm>
+	<functional>
+	<iostream>
+	<memory>
+	<optional>
+	<string>
+	<tabulate/cell.hpp>
+	<tabulate/column_format.hpp>
+	<vector>
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\include\tabulate\cell.hpp
+	<iostream>
+	<memory>
+	<string>
+	<tabulate/format.hpp>
+	<tabulate/utf8.hpp>
+	<optional>
+	<tabulate/optional_lite.hpp>
+	<vector>
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\include\tabulate\format.hpp
+	<algorithm>
+	<cctype>
+	<cstddef>
+	<sstream>
+	<string>
+	<tabulate/color.hpp>
+	<tabulate/font_align.hpp>
+	<tabulate/font_style.hpp>
+	<tabulate/utf8.hpp>
+	<optional>
+	<tabulate/optional_lite.hpp>
+	<vector>
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\include\tabulate\color.hpp
+	<tabulate/termcolor.hpp>
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\include\tabulate\termcolor.hpp
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<cstdio>
+	<iostream>
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\include\tabulate\font_align.hpp
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\include\tabulate\font_style.hpp
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\include\tabulate\utf8.hpp
+	<algorithm>
+	<cstdint>
+	<string>
+	<clocale>
+	<locale>
+	<cstdlib>
+	<tabulate/termcolor.hpp>
+	<wchar.h>
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\include\tabulate\optional_lite.hpp
+	<utility>
+	<cstddef>
+	<optional>
+	<cassert>
+	<utility>
+	<stdexcept>
+	<functional>
+	<initializer_list>
+	<type_traits>
+	<tr1/type_traits>
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\include\tabulate\column_format.hpp
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\include\tabulate\printer.hpp
+	<tabulate/color.hpp>
+	<tabulate/font_style.hpp>
+	<utility>
+	<vector>
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\include\tabulate\row.hpp
+	<iostream>
+	<memory>
+	<string>
+	<tabulate/cell.hpp>
+	<optional>
+	<tabulate/optional_lite.hpp>
+	<vector>
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\include\tabulate\string_view_lite.hpp
+	<nonstd/string_view.tweak.hpp>
+	<cstddef>
+	<string_view>
+	<algorithm>
+	<cassert>
+	<iterator>
+	<limits>
+	<string>
+	<ostream>
+	<stdexcept>
+	<type_traits>
+	<functional>
+
+1655201187 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\include\tabulate\variant_lite.hpp
+	<utility>
+	<cstddef>
+	<functional>
+	<variant>
+	<cstddef>
+	<limits>
+	<new>
+	<utility>
+	<cassert>
+	<stdexcept>
+	<functional>
+	<initializer_list>
+	<type_traits>
+	<tr1/type_traits>
+
+1657456015 source:d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\history\datastructure.cpp
+	<iostream>
+	"DataStructure.h"
+	<tabulate/table.hpp>
+	<fstream>
+
+1657456020 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\history\datastructure.h
+	<iostream>
+
+1657284275 source:d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\main.cpp
+	<iostream>
+	<ctime>
+	"History/Main.h"
+	"Product Management/Main.h"
+	"Book Management/Main.h"
+	"Number Testing/Main.h"
+	"Math suit/Main.h"
+	"Number Coverter/Main.h"
+	"Basic Math/Main.h"
+
+1657456087 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\history\main.h
+	<iostream>
+	<conio.h>
+	"DataStructure.h"
+
+1657474846 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\product management\main.h
+	<iostream>
+	<conio.h>
+	"DataStructure.h"
+
+1657456174 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\product management\datastructure.h
+	<iostream>
+
+1657509729 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\book management\main.h
+	<iostream>
+	"DataStructure.h"
+
+1657286402 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\number testing\main.h
+	<iostream>
+	"DataStructure.h"
+
+1657186137 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\number testing\datastructure.h
+	<iostream>
+
+1657286598 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\math suit\main.h
+	<iostream>
+	"DataStructure.h"
+
+1657187970 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\math suit\datastructure.h
+	<iostream>
+	<string>
+
+1657286866 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\number coverter\main.h
+	<algorithm>
+	<iostream>
+	<string>
+	<cmath>
+	<bits/stdc++.h>
+
+1657472179 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\basic math\main.h
+	<iostream>
+	<tabulate/table.hpp>
+
+1657456352 source:d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\product management\datastructure.cpp
+	<iostream>
+	<fstream>
+	<color.hpp>
+	<tabulate/table.hpp>
+	"DataStructure.h"
+
+1655303860 d:\gic i3\sii\algorithm and programing ii\algorithm final project\algorithm final project\include\color.hpp
+	<algorithm>
+	<iostream>
+	<list>
+	<map>
+	<string>
+	<type_traits>
+	<utility>
+	<windows.h>
+

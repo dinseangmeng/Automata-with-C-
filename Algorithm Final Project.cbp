@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title=" Algorithm Final Project" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Project Algorithm Final For BackUp" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="Include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Project Algorithm Final For BackUp" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="Include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Basic Math/Main.h" />
+		<Unit filename="Book Management/DataStructure.cpp" />
+		<Unit filename="Book Management/DataStructure.h" />
+		<Unit filename="Book Management/Main.h" />
+		<Unit filename="History/DataStructure.cpp" />
+		<Unit filename="History/DataStructure.h" />
+		<Unit filename="History/Main.h" />
+		<Unit filename="Math suit/DataStructure.h" />
+		<Unit filename="Math suit/Main.h" />
+		<Unit filename="Number Coverter/Main.h" />
+		<Unit filename="Number Testing/DataStructure.h" />
+		<Unit filename="Number Testing/Main.h" />
+		<Unit filename="Product Management/DataStructure.cpp" />
+		<Unit filename="Product Management/DataStructure.h" />
+		<Unit filename="Product Management/Main.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
